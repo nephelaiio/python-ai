@@ -1,0 +1,7 @@
+keras>=2.0.5
+tensorflow>=1.2.0
+anyconfig>=0.9.3
+pandas>=0.20.2
+h5py>=2.7.0
+tox>=2.7.0
+nltk>=3.2.4
